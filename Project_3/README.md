@@ -4,4 +4,4 @@ this was done by combining robot sensor measurements and movement to create a ma
  
 SLAM enables tracking the location of a robot in the world in real-time and identifying the locations of landmarks such as buildings, trees, rocks, and other world features. This is an active area of research in the fields of robotics and autonomous systems.
 
-![](proj3_ov.png)
+![](../proj3_ov.png)

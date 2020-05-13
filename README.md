@@ -27,7 +27,7 @@ In this project, I designed a CNN-RNN (Convolutional Neural Network - Recurrent 
 
 the CNN model is responsible for feature extraction and based on RESNET with adjusting the weights of the final layer only ,
 the RNN model is responsible for generating the sequence of the captions and based on LSTM.
-#### Some results of the implemented facial keypoint detection system:
+#### Some results of the implemented Image caption model:
 ![](proj2_result_1.png)
 
 ![](proj2_result_2.png)
